@@ -1,7 +1,7 @@
 # sublime-settings
 
-**group 0
-Package Control     v3.3.0
+** group 0
+* Package Control     v3.3.0
 
 ** group 1
 * Predawn             v2.0.5
